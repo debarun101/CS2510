@@ -3,7 +3,7 @@ Computer Operating System
 
 Graduate Level Course for Computer Operating System
 
-====================== Project - miniGoogle ============================
+====================== PROJECT - miniGoogle ============================
 
 Compiling and running the master node:
 
